@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dan-webxdan
+- 👀 I’m interested in web development, mobile apps
+- 🌱 I’m always learning, but have been doing this awhile. Could be stronger in JS frameworks, love Python!
+- 💞️ I’m looking to collaborate on anything! Love home automation...
+- 📫 How to reach me: dan@webxdan.com
